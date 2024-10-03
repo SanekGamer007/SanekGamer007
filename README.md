@@ -1,4 +1,4 @@
 ### hello
 im stuped\
-languages: batch\
-current project: none
+languages: batch, gdscript(just starting)\
+current project: learning godot
