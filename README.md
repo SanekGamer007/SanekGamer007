@@ -1,4 +1,4 @@
-### hello
-im stuped\
-known languages: gdscript\
-current project: learning C++
+### Hello!
+I am kinda stupid\
+Programming languages i know: GDScript (Godot) and somewhat C++
+Current project: none
