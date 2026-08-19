@@ -1,4 +1,5 @@
 ### Hello!
 I am kinda stupid\
-Programming languages i know: GDScript (Godot) and somewhat C++\
+Programming languages i know good: GDScript
+Programming languages i somewhat know: C++, C#
 Current project: none
